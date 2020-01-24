@@ -2,7 +2,8 @@
 
 This model displays the population density,the  average rats caught per week and the total death per week.
 When you run this code it is expected that a window will appear on your 
-computer screen. To run the model,find this window and put in the parameter in the python console,and click "draw",3 map will apear on your computer window.
+computer screen. To run the model,find this window and put in the parameter in the python console,and click "draw",3 map will
+apear on your computer window.
 """
 
 
