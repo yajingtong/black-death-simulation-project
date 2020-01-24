@@ -5,23 +5,19 @@ the first two map is based on data from two text files, the third map is calcula
 After run the model,a GUI should appear,displaying 3 maps described above.
 
 The model is tests and demonstrates several features:
-- writing a model consists of multiple files
 - reads in  data contained in two txt files
 - display the model as 3 maps 
 - contained within a GUI
-
-
-
+- allow the user to change the parameter 
 
 
 ## How to run
- Donwload the 2 data files"death.rats.txt"and "death.parishes.txt".Run the blackdeathmodel.ipynb on jupyter, after run the code, there will be hint to input the paramenters, after the input of parameters,click "draw",there will be a GUI window appear on your computer screen, find the window and select the button "change the parameters" from menubar 
-Click the "Quit" button to exits the GUI window.
+ Donwload the 2 data files"death.rats.txt"and "death.parishes.txt".Run the blackdeathmodel.py in spyder, after run the code, there will be hint to enter the paramenters in the python console, after the input of parameters,click "draw",there will be a GUI window appear on your computer screen, find the window and select the button "change the parameters" from menubar 
+Click the "exit" button on the menu to exits the GUI window.
 
 ## files
-- blackdeathmodel.ipynb which defines the model itself,have the function of read in data and multiply two list.
-- test.ipynb
-- GUI.py defines the GUI window,include the function of exit the window
-- death.rats.txt contains the data of rats caught per week
+- black death.py which defines the model itself,have the function of read in data and multiply two list and use matplotlib to draw 3 map.
+- test.py
+- death.rats.txt contains the data of rats caught per week per 100 x100m
 - death.parishes.txt contains the data of average population density per 100 x 100m
 
