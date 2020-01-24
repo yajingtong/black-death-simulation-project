@@ -4,6 +4,16 @@ This project is based on the black death out break in 1665,simulating the epidem
 the first two map is based on data from two text files, the third map is calculated based on the equation d = (0.8 x r) x (1.3 x p),
 After run the model,a GUI should appear,displaying 3 maps described above.
 
+- The model is tests and demonstrates several features:
+- writing a model consists of multiple files
+- reads in  data contained in two txt files
+- display the model as 3 maps 
+- contained within a GUI
+
+
+
+
+
 ## How to run
  Donwload the 2 data files"death.rats.txt"and "death.parishes.txt".Run the blackdeathmodel.ipynb on jupyter, after run the code, there will be hint to input the paramenters, after the input of parameters,there will be a GUI window appear on your computer screen, find the window and select the button "change the parameters" from menubar 
 Click the "Quit" button to exits the GUI window.
