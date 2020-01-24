@@ -17,7 +17,7 @@ Click the "exit" button on the menu to exits the GUI window.
 
 ## files
 - black death.py which defines the model itself,have the function of read in data and multiply two list and use matplotlib to draw 3 map.
-- test.py
+- test.py. contains the test code of a GUI class
 - death.rats.txt contains the data of rats caught per week per 100 x100m
 - death.parishes.txt contains the data of average population density per 100 x 100m
 
