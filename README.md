@@ -15,7 +15,7 @@ The model is tests and demonstrates several features:
 
 
 ## How to run
- Donwload the 2 data files"death.rats.txt"and "death.parishes.txt".Run the blackdeathmodel.ipynb on jupyter, after run the code, there will be hint to input the paramenters, after the input of parameters,there will be a GUI window appear on your computer screen, find the window and select the button "change the parameters" from menubar 
+ Donwload the 2 data files"death.rats.txt"and "death.parishes.txt".Run the blackdeathmodel.ipynb on jupyter, after run the code, there will be hint to input the paramenters, after the input of parameters,click "draw",there will be a GUI window appear on your computer screen, find the window and select the button "change the parameters" from menubar 
 Click the "Quit" button to exits the GUI window.
 
 ## files
