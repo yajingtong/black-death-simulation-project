@@ -1,5 +1,5 @@
 # project2 summary
-## GEOG5990 assignment2 -- black death
+## black death
 This project is based on the black death out break in 1665,simulating the epidemic situation caused by rats.The model displays 3 map represents for the average rats caught per week per 100x100m,average population density per 100x100m,and the average death estimated per week per 100x100m.
 the first two map is based on data from two text files, the third map is calculated based on the equation d = (0.8 x r) x (1.3 x p),
 After run the model,a GUI should appear,displaying 3 maps described above.
